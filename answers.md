@@ -1,6 +1,7 @@
 # Answers 
 
 1. How do you get started with Kubernetes? 
+
 Learn by doing
     - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
     - [DigitalOcean Getting Started with Kubernetes](https://www.digitalocean.com/landing/doks-resources)
@@ -8,6 +9,7 @@ Learn by doing
 1. What's the best way to run Kubernetes on your computer when you have limited cpu and ram?
     - [Minikube vs Kind vs K3s](https://www.youtube.com/watch?v=NP_EcjzoJv8)
     - [How To Use minikube for Local Kubernetes Development and Testing](https://www.digitalocean.com/community/tutorials/how-to-use-minikube-for-local-kubernetes-development-and-testing)
+    - [Getting Started with K3s](https://rancher.com/docs/k3s/latest/en/quick-start/)
 1. How do you set up TLS certs on multiple hosts?
     - Decide on your ingress controller 
         - NGINX
@@ -18,6 +20,8 @@ Learn by doing
 1. Kubernetes vs. App Platform -- when to use and when to switch?
     - [Is Kubernetes Right for Me?](https://www.digitalocean.com/blog/is-kubernetes-right-for-me)
 1. What is the best approach to understand Helm charts? 
+    - [Artifact Hub](https://artifacthub.io/)
+    - [Helm Hello World](https://github.com/helm/examples/tree/main/charts/hello-world)
     - [Helm Quickstart](https://helm.sh/docs/intro/quickstart/)
     - [An Introduction to Helm, the Package Manager for Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-helm-the-package-manager-for-kubernetes)
     - [Kubernetes Package Management with Helm](https://www.linkedin.com/learning/kubernetes-package-management-with-helm)
